@@ -1,6 +1,6 @@
 let jokes = require("../src/jokes.json");
 const { CONSTANTS, getRandomArrayElement } = require("../src/utils");
-const { qnaCard, quoteCard } = require("../src/renderJokesCard");
+const { qnaCard, quoteCard } = require("../src/Card");
 const themes = require("../src/themes");
 
 // Max cache age (Currently = 60 seconds)
