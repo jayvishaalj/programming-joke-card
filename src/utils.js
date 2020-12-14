@@ -14,7 +14,7 @@ exports.CONSTANTS = {
 };
 
 exports.getRandomArrayElement = (arr) => {
-  min = 0;
-  max = arr.length;
+  let min = 0;
+  let max = arr.length;
   return arr[Math.floor(Math.random() * (max - min) + min)]; //The maximum is inclusive and the minimum is inclusive
 };
