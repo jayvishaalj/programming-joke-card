@@ -22,14 +22,14 @@ Embed one of these in your README:
 ```md
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://programming-joke-card.jayvishaalj.vercel.app/api)
 ```
 
 <p align="center">or</p>
 
 ```html
 <!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://programming-joke-card.jayvishaalj.vercel.app/api" alt="Jokes Card" />
 ```
 ### Customization Parameters
 - `bgColor` → **Background Color**
